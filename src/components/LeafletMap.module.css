@@ -1,0 +1,9 @@
+.mapContainer {
+    position: relative !important;
+    height: 100%;
+}
+
+.leafletContainer {
+    width: 100%;
+    height: 100%;
+}

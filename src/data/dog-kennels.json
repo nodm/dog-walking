@@ -1,0 +1,188 @@
+{
+  "locations": [
+    {
+      "eldership": "Antakalnio seniūnijoje",
+      "locations": [
+        {
+          "address": "P. Vileišio g. (prie VGTU Inžinerijos licėjaus)"
+        }
+      ]
+    },
+    {
+      "eldership": "Fabijoniškių seniūnijoje",
+      "locations": [
+        {
+          "address": "Fabijoniškių g. 15"
+        },
+        {
+          "address": "L. Giros g. 127 (prie autobusų žiedo)"
+        }
+      ]
+    },
+    {
+      "eldership": "Justiniškių seniūnijoje",
+      "locations": [
+        {
+          "address": "Taikos g. 157"
+        }
+      ]
+    },
+    {
+      "eldership": "Karoliniškių seniūnijoje",
+      "locations": [
+        {
+          "address": "I. Šimulionio – V. Vaitkaus g. sankirtoje"
+        },
+        {
+          "address": "Sietyno g."
+        }
+      ]
+    },
+    {
+      "eldership": "Lazdynų seniūnijoje",
+      "locations": [
+        {
+          "address": "Lazdynėlių g."
+        },
+        {
+          "address": "Architektų g. 176"
+        }
+      ]
+    },
+    {
+      "eldership": "Naujamiesčio seniūnijoje",
+      "locations": [
+        {
+          "address": "Amatų g. prie Nr. 6"
+        }
+      ]
+    },
+    {
+      "eldership": "Naujosios Vilnios seniūnijoje",
+      "locations": [
+        {
+          "address": "Parko g. 23  (už parduotuvės)"
+        }
+      ]
+    },
+    {
+      "eldership": "Pašilaičių seniūnijoje",
+      "locations": [
+        {
+          "address": "Medeinos g. 25"
+        },
+        {
+          "address": "Gabijos g. 23"
+        },
+        {
+          "address": "Žemynos g. 15"
+        }
+      ]
+    },
+    {
+      "eldership": "Pilaitės seniūnijoje",
+      "locations": [
+        {
+          "address": "Smalinės g. prie miško"
+        }
+      ]
+    },
+    {
+      "eldership": "Grigiškių seniūnijoje",
+      "locations": [
+        {
+          "address": "Šviesos g. 9 gale"
+        }
+      ]
+    },
+    {
+      "eldership": "Senamiesčio seniūnijoje",
+      "locations": [
+        {
+          "address": "Šopeno g. 3 – Gėlių g. 7 (kalnas)"
+        }
+      ]
+    },
+    {
+      "eldership": "Šeškinės seniūnijoje",
+      "locations": [
+        {
+          "address": "Buivydiškių g. 19"
+        },
+        {
+          "address": "Čiobiškio g. 2"
+        },
+        {
+          "address": "Čiobiškio g. 16"
+        },
+        {
+          "address": "Šeškinės g. 45A"
+        },
+        {
+          "address": "Gelvonų g. 1A"
+        }
+      ]
+    },
+    {
+      "eldership": "Verkių seniūnijoje",
+      "locations": [
+        {
+          "address": "Ateities g. 1"
+        },
+        {
+          "address": "Žaliųjų Ežerų g. 5"
+        },
+        {
+          "address": "J. Kairiūkščio g. šalia Nr. 2"
+        },
+        {
+          "address": "Geležinio Vilko g. – Didlaukio g. sankirtoje"
+        }
+      ]
+    },
+    {
+      "eldership": "Vilkpėdės seniūnijoje",
+      "locations": [
+        {
+          "address": "Skroblų g. tarp namų Nr. 5 ir Nr. 7"
+        }
+      ]
+    },
+    {
+      "eldership": "Viršuliškių seniūnijoje",
+      "locations": [
+        {
+          "address": "Lūžių parko pakraštyje (prie laiptų į Justiniškių g.)"
+        },
+        {
+          "address": "Viršuliškių skvero pakraštyje (prie Laisvės pr.)"
+        }
+      ]
+    },
+    {
+      "eldership": "Žirmūnų seniūnijoje",
+      "locations": [
+        {
+          "address": "Šeimyniškių g. 30"
+        },
+        {
+          "address": "Šalia Žirmūnų g. 93"
+        },
+        {
+          "address": "Žirmūnų g. 55"
+        },
+        {
+          "address": "Žirmūnų g. 1D (po Šilo tiltu)"
+        }
+      ]
+    },
+    {
+      "eldership": "Žvėryno seniūnijoje",
+      "locations": [
+        {
+          "address": "Vytauto g. 1 (šalia Lietuvos edukologijos universiteto stadiono)"
+        }
+      ]
+    }
+  ]
+}
