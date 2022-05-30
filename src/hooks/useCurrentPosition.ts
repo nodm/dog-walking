@@ -26,7 +26,7 @@ export function useCurrentPosition(): {
         enableHighAccuracy: true
       }
     );
-  }, []);
+  }, [error]);
 
   return { position, error };
 }
